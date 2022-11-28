@@ -1,0 +1,33 @@
+startdate 2014  4  1  0  0
+timestep 15
+times_per_file 96
+/nfs/see-archive-15_a65/eejac/VERA/VERA_xmdyt/netcdf/rainrate/xmdyt_05216_rainrate_qi_20140401.nc
+/nfs/see-archive-15_a65/eejac/VERA/VERA_xmdyt/netcdf/rainrate/xmdyt_05216_rainrate_qi_20140402.nc
+/nfs/see-archive-15_a65/eejac/VERA/VERA_xmdyt/netcdf/rainrate/xmdyt_05216_rainrate_qi_20140403.nc
+/nfs/see-archive-15_a65/eejac/VERA/VERA_xmdyt/netcdf/rainrate/xmdyt_05216_rainrate_qi_20140404.nc
+/nfs/see-archive-15_a65/eejac/VERA/VERA_xmdyt/netcdf/rainrate/xmdyt_05216_rainrate_qi_20140405.nc
+/nfs/see-archive-15_a65/eejac/VERA/VERA_xmdyt/netcdf/rainrate/xmdyt_05216_rainrate_qi_20140406.nc
+/nfs/see-archive-15_a65/eejac/VERA/VERA_xmdyt/netcdf/rainrate/xmdyt_05216_rainrate_qi_20140407.nc
+/nfs/see-archive-15_a65/eejac/VERA/VERA_xmdyt/netcdf/rainrate/xmdyt_05216_rainrate_qi_20140408.nc
+/nfs/see-archive-15_a65/eejac/VERA/VERA_xmdyt/netcdf/rainrate/xmdyt_05216_rainrate_qi_20140409.nc
+/nfs/see-archive-15_a65/eejac/VERA/VERA_xmdyt/netcdf/rainrate/xmdyt_05216_rainrate_qi_20140410.nc
+/nfs/see-archive-15_a65/eejac/VERA/VERA_xmdyt/netcdf/rainrate/xmdyt_05216_rainrate_qi_20140411.nc
+/nfs/see-archive-15_a65/eejac/VERA/VERA_xmdyt/netcdf/rainrate/xmdyt_05216_rainrate_qi_20140412.nc
+/nfs/see-archive-15_a65/eejac/VERA/VERA_xmdyt/netcdf/rainrate/xmdyt_05216_rainrate_qi_20140413.nc
+/nfs/see-archive-15_a65/eejac/VERA/VERA_xmdyt/netcdf/rainrate/xmdyt_05216_rainrate_qi_20140414.nc
+/nfs/see-archive-15_a65/eejac/VERA/VERA_xmdyt/netcdf/rainrate/xmdyt_05216_rainrate_qi_20140415.nc
+/nfs/see-archive-15_a65/eejac/VERA/VERA_xmdyt/netcdf/rainrate/xmdyt_05216_rainrate_qi_20140416.nc
+/nfs/see-archive-15_a65/eejac/VERA/VERA_xmdyt/netcdf/rainrate/xmdyt_05216_rainrate_qi_20140417.nc
+/nfs/see-archive-15_a65/eejac/VERA/VERA_xmdyt/netcdf/rainrate/xmdyt_05216_rainrate_qi_20140418.nc
+/nfs/see-archive-15_a65/eejac/VERA/VERA_xmdyt/netcdf/rainrate/xmdyt_05216_rainrate_qi_20140419.nc
+/nfs/see-archive-15_a65/eejac/VERA/VERA_xmdyt/netcdf/rainrate/xmdyt_05216_rainrate_qi_20140420.nc
+/nfs/see-archive-15_a65/eejac/VERA/VERA_xmdyt/netcdf/rainrate/xmdyt_05216_rainrate_qi_20140421.nc
+/nfs/see-archive-15_a65/eejac/VERA/VERA_xmdyt/netcdf/rainrate/xmdyt_05216_rainrate_qi_20140422.nc
+/nfs/see-archive-15_a65/eejac/VERA/VERA_xmdyt/netcdf/rainrate/xmdyt_05216_rainrate_qi_20140423.nc
+/nfs/see-archive-15_a65/eejac/VERA/VERA_xmdyt/netcdf/rainrate/xmdyt_05216_rainrate_qi_20140424.nc
+/nfs/see-archive-15_a65/eejac/VERA/VERA_xmdyt/netcdf/rainrate/xmdyt_05216_rainrate_qi_20140425.nc
+/nfs/see-archive-15_a65/eejac/VERA/VERA_xmdyt/netcdf/rainrate/xmdyt_05216_rainrate_qi_20140426.nc
+/nfs/see-archive-15_a65/eejac/VERA/VERA_xmdyt/netcdf/rainrate/xmdyt_05216_rainrate_qi_20140427.nc
+/nfs/see-archive-15_a65/eejac/VERA/VERA_xmdyt/netcdf/rainrate/xmdyt_05216_rainrate_qi_20140428.nc
+/nfs/see-archive-15_a65/eejac/VERA/VERA_xmdyt/netcdf/rainrate/xmdyt_05216_rainrate_qi_20140429.nc
+/nfs/see-archive-15_a65/eejac/VERA/VERA_xmdyt/netcdf/rainrate/xmdyt_05216_rainrate_qi_20140430.nc
