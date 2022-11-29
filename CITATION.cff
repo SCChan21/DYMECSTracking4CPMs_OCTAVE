@@ -10,16 +10,16 @@ message: >-
   metadata from this file.
 type: software
 authors:
+  - given-names: Steven
+    family-names: Chan
+    email: steven.chan@newcastle.ac.uk
+    affiliation: Newcastle University
+    orcid: 'https://orcid.org/0000-0001-7695-3754'
   - given-names: Julia
     family-names: Crook
     affiliation: University of Leeds
     email: j.a.crook@leeds.ac.uk
     orcid: 'https://orcid.org/0000-0003-1724-1479'
-  - given-names: Steven
-    family-names: Chan
-    email: steven.chan@newcastle.ac.uk
-    affiliation: Newcastle University
-    orcid: 'https://orcid.org/0000-0001-7695-3754'	
 identifiers:
   - type: doi
     value: 10.5281/zenodo.7376727
