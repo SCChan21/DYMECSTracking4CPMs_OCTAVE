@@ -1,0 +1,73 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  DYMECS Tracking for climate model data,
+  OCTAVE-version
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Julia
+    family-names: Crook
+    affiliation: University of Leeds
+    email: j.a.crook@leeds.ac.uk
+    orcid: 'https://orcid.org/0000-0003-1724-1479'
+  - given-names: Steven
+    family-names: Chan
+    email: steven.chan@newcastle.ac.uk
+    affiliation: Newcastle University
+    orcid: 'https://orcid.org/0000-0001-7695-3754'	
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7376727
+repository-code: "https://github.com/SCChan21/DYMECSTracking4CPMs_OCTAVE/"
+abstract: >
+  OCTAVE code
+
+
+  Related papers:
+
+
+  Crook, J., Klein, C., Folwell, S., Taylor, C. M.,
+  Parker, D. J., Stratton, R., & Stein, T. (2019).
+  Assessment of the Representation of West African
+  Storm Lifecycles in Convection-Permitting
+  Simulations. Earth and Space Science, 6(5),
+  818–835. https://doi.org/10.1029/2018EA000491
+
+
+  Müller, S. K., Caillaud, C., Chan, S., de Vries,
+  H., Bastin, S., Berthou, S., Brisson, E., Demory,
+  M.-E., Feldmann, H., Goergen, K., Kartsios, S.,
+  Lind, P., Keuler, K., Pichelli, E., Raffa, M.,
+  Tölle, M. H., & Warrach-Sagi, K. (2022). Evaluation
+  of Alpine-Mediterranean precipitation events in
+  convection-permitting regional climate models using
+  a set of tracking algorithms. Climate Dynamics.
+  https://doi.org/10.1007/s00382-022-06555-z
+
+
+  Stein, T. H. M., Hogan, R. J., Hanley, K. E.,
+  Nicol, J. C., Lean, H. W., Plant, R. S., Clark, P.
+  A., & Halliwell, C. E. (2014). The
+  Three-Dimensional Morphology of Simulated and
+  Observed Convective Storms over Southern England.
+  Monthly Weather Review, 142(9), 3264–3283.
+  https://doi.org/10.1175/MWR-D-13-00372.1
+
+
+  Thomassen, E. D., Kendon, E. J., Sørup, H. J. D.,
+  Chan, S. C., Langen, P. L., Christensen, O. B., &
+  Arnbjerg-Nielsen, K. (2021). Differences in
+  representation of extreme precipitation events in
+  two high resolution models. Climate Dynamics.
+  https://doi.org/10.1007/s00382-021-05854-1
+keywords:
+  - climate models
+  - OCTAVE
+  - meteorology cell tracking
+license: GPL-3.0
+date-released: '2022-11-29'
