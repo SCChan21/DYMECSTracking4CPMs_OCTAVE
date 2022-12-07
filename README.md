@@ -7,7 +7,7 @@ Crook J, Klein C, Folwell S, et al (2019) Assessment of the Representation of We
 
 Stein THM, Hogan RJ, Hanley KE, et al (2014) The Three-Dimensional Morphology of Simulated and Observed Convective Storms over Southern England. Mon Wea Rev 142:3264–3283. https://doi.org/10.1175/MWR-D-13-00372.1
 
-This version of the code are used in the following papers:
+This version of the code is used in the following papers:
 
 Kahraman A, Kendon EJ, Chan SC, Fowler HJ (2021) Quasi-Stationary Intense Rainstorms Spread Across Europe Under Climate Change. Geophysical Research Letters 48:e2020GL092361. https://doi.org/10.1029/2020GL092361
 
