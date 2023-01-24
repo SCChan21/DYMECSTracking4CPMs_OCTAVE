@@ -9,6 +9,8 @@ Stein THM, Hogan RJ, Hanley KE, et al (2014) The Three-Dimensional Morphology of
 
 This version of the code is used in the following papers:
 
+Chan, S.C., Kendon, E.J., Fowler, H.J. et al. Large-scale dynamics moderate impact-relevant changes to organised convective storms. Commun Earth Environ 4, 8 (2023). https://doi.org/10.1038/s43247-022-00669-2
+
 Kahraman A, Kendon EJ, Chan SC, Fowler HJ (2021) Quasi-Stationary Intense Rainstorms Spread Across Europe Under Climate Change. Geophysical Research Letters 48:e2020GL092361. https://doi.org/10.1029/2020GL092361
 
 Müller SK, Caillaud C, Chan S, et al (2022) Evaluation of Alpine-Mediterranean precipitation events in convection-permitting regional climate models using a set of tracking algorithms. Climate Dynamics. https://doi.org/10.1007/s00382-022-06555-z
